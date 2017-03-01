@@ -1,6 +1,6 @@
 #sxin1210
 # Learn Chaincode
-
+sxin1210
 A tutorial to get you started with writing smart contracts for Hyperledger.
 
 # Deployment
